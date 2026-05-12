@@ -41,7 +41,6 @@ The project combines technical SEO concepts with data science and statistical an
 ├── r_statistical_analysis/      # In Progress
 │
 ├── data/
-├── tables/
 └── README.md
 ```
 
