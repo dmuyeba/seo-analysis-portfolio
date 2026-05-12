@@ -12,7 +12,7 @@ The project follows a full analytics workflow including:
 
 ---
 
-# Project Overview
+## Project Overview
 
 This repository explores website SEO performance using page-level search and content metrics.
 
@@ -28,7 +28,7 @@ The project combines technical SEO concepts with data science and statistical an
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```text
 ├── sql/
@@ -47,9 +47,9 @@ The project combines technical SEO concepts with data science and statistical an
 
 ---
 
-# Project Stages
+## Project Stages
 
-## 1. Data Cleaning, Views & Queries (SQL)
+### 1. Data Cleaning, Views & Queries (SQL)
 
 Current notebook included in repository.
 
@@ -72,7 +72,7 @@ Key outputs include:
 
 ---
 
-## 2. Exploratory Data Analysis (Python) *(In Progress)*
+### 2. Exploratory Data Analysis (Python) *(In Progress)*
 
 Planned analyses include:
 
@@ -92,7 +92,7 @@ Libraries:
 
 ---
 
-## 3. Clustering & Segmentation (Python) *(In Progress)*
+### 3. Clustering & Segmentation (Python) *(In Progress)*
 
 This stage will apply unsupervised learning techniques to identify page groups and optimisation opportunities.
 
@@ -106,7 +106,7 @@ Planned methods include:
 
 ---
 
-## 4. Predictive Modelling (Python) *(In Progress)*
+### 4. Predictive Modelling (Python) *(In Progress)*
 
 This stage aims to predict organic search clicks using machine learning models.
 
@@ -126,7 +126,7 @@ Potential prediction targets:
 
 ---
 
-## 5. Statistical Analysis (R) *(In Progress)*
+### 5. Statistical Analysis (R) *(In Progress)*
 
 This stage will apply inferential statistical techniques to validate findings from the exploratory and predictive analyses.
 
@@ -147,14 +147,14 @@ Libraries:
 
 ---
 
-# Technologies Used
+## Technologies Used
 
-## SQL
+### SQL
 
 * SQLite
 * Jupyter SQL Magic
 
-## Python
+### Python
 
 * Pandas
 * NumPy
@@ -163,14 +163,14 @@ Libraries:
 * Matplotlib
 * Seaborn
 
-## R
+### R
 
 * tidyverse
 * ggplot2
 
 ---
 
-# Example Research Questions
+## Example Research Questions
 
 * What characteristics are associated with low CTR pages?
 * Which technical SEO issues correlate with weak performance?
@@ -180,7 +180,7 @@ Libraries:
 
 ---
 
-# Report
+## Report
 
 A written analytical report accompanies the SQL analysis notebook and summarises:
 
@@ -192,7 +192,7 @@ A written analytical report accompanies the SQL analysis notebook and summarises
 
 ---
 
-# Status
+## Status
 
 Current status:
 
@@ -204,8 +204,7 @@ Current status:
 
 ---
 
-# Author
-
-MSc Data Science Project Portfolio
+## Author
+Daniel Muyeba, recent MSc Data Science student with over 5 years of professional experience in SEO in agency and in-house.
 
 ---
