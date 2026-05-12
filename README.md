@@ -4,11 +4,11 @@ An end-to-end SEO analytics project combining SQL, Python and R to analyse organ
 
 The project follows a full analytics workflow including:
 
-* data cleaning and preprocessing,
-* exploratory data analysis,
-* segmentation and clustering,
-* predictive modelling,
-* and statistical inference.
+* Data cleaning and Preprocessing
+* Exploratory Data Analysis,
+* Segmentation and Clustering,
+* Predictive Modelling,
+* Statistical Inference.
 
 ---
 
